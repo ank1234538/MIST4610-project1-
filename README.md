@@ -7,6 +7,6 @@
    
   2. Afaf Khurram [@Ak87319](https://github.com/ak87319)
 
-  3. Akash Kodali [@Amk1234538](https://github.com/Amk1234538)
+  3. Akash Kodali [@Amk1234538](https://github.com/Ank1234538)
      
   4. Olvia Lucas [@livlucas04-bit](https://github.com/livlucas04-bit)
