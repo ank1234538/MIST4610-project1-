@@ -75,6 +75,3 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
       - Useful for managers to create loyalty progranms or increasing advertising towards those specific people because they are bringing in the most money. 
   
 
-
-2) List of all Events and the dates.
-   - This 
