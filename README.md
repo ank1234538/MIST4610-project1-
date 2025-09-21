@@ -7,7 +7,7 @@
    
   2. Afaf Khurram [@Ak87319](https://github.com/ak87319)
 
-  3. Akash Kodali [@Amk1234538](https://github.com/Ank1234538)
+  3. Akash Kodali [@Ank1234538](https://github.com/Ank1234538)
      
   4. Olvia Lucas [@livlucas04-bit](https://github.com/livlucas04-bit)
 
@@ -20,4 +20,3 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
     The Events table also has a one-to-many relationship with the Tickets table. This states that there could be many ticket sales for one event, but each ticket is uniquely tied to one event. This directly relates to the Customers table as well, as one customer can by multiple tickets but each ticket is related to one customer. 
     There is also a many-to-many relationship between Events ,Customers, and Tickets. While a customer can attend many events and events can have many customers, the linking party ( weak entity) is the tickets table. 
 
-    <img width="1440" height="900" alt="Screenshot 2025-09-21 at 5 20 44 PM" src="https://github.com/user-attachments/assets/242569bb-3a6c-492e-8db6-274c0db09c52" />    
