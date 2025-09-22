@@ -24,10 +24,7 @@ JOIN Tickets ON Events.EventID = Tickets.EventID
 GROUP BY Events.EventName
 ORDER BY TotalRevenue DESC;
 
--- top 5 artists maybe change Venues by capacuty 
--- 
-
-
+-- Top 5 artists by Revenue
 SELECT Artists.ArtistName, SUM(Tickets.Quantity * Events.TicketPrice) AS Revenue
 FROM Artists
 JOIN Events ON Artists.ArtistID = Events.ArtistID
