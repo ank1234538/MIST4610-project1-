@@ -21,7 +21,7 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
     There is also a many-to-many relationship between Events ,Customers, and Tickets. While a customer can attend many events and events can have many customers, the linking party ( weak entity) is the tickets table. 
 
 # Data Dictionary 
-![Alt text](Tables.pdf)
+![Data Dictionary](Tables-1.png)
 
 
 
