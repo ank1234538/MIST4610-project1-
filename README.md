@@ -39,21 +39,22 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
 # Queries 
 
 1) List of all Customers
-   - This query is useful for managers to see all the customers names and contact information to reach out to them for more events
+   - This query is useful for managers to see all the customers names and contact information to reach out to them in case of cancellation as well as future events.
    - <img width="679" height="320" alt="Screenshot 2025-09-22 at 4 12 53 PM" src="https://github.com/user-attachments/assets/7806b4cc-bc5c-436f-b48d-2c1a4300fb16" />
 
 
      
 2) List of all events
    - Useful for managers to gain oversight on all events and useful for planning strategies.
-   - Managers can also use this to see when popular events occur. 
+   - Managers can also use this to see when popular events occur.
+   - Allows the manager to gain insight on which season is the best for events
    - <img width="1138" height="381" alt="PNG image" src="https://github.com/user-attachments/assets/2254f1f2-aba4-4783-8d91-69eff77be33c" />
 
 
      
 3) Venues and Capacity
     - Shows where events take place and the max limit for customers
-    - Useful for managers in event planning and adhering to safety compliances by the city. 
+    - Useful for managers in event planning and adhering to safety compliances by the city.
     - <img width="1141" height="340" alt="Screenshot 2025-09-22 at 4 17 36 PM" src="https://github.com/user-attachments/assets/af9cf913-1a71-4905-a294-e32c80370b21" />
 
 
