@@ -46,7 +46,8 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
      
 2) List of all events
    - Useful for managers to gain oversight all events and useful for planning strategies.
-   - 
+   - <img width="1138" height="381" alt="PNG image" src="https://github.com/user-attachments/assets/2254f1f2-aba4-4783-8d91-69eff77be33c" />
+
 
      
 3) Venues and Capacity
