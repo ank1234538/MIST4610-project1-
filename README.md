@@ -45,33 +45,34 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
 
      
 2) List of all events
-   - Useful for managers to gain oversight all events and useful for planning strategies.
+   - Useful for managers to gain oversight on all events and useful for planning strategies.
+   - Managers can also use this to see when popular events occur. 
    - <img width="1138" height="381" alt="PNG image" src="https://github.com/user-attachments/assets/2254f1f2-aba4-4783-8d91-69eff77be33c" />
 
 
      
 3) Venues and Capacity
     - Shows where events take place and the max limit for customers
-    - Useful for managers in event planning and adhering to safety compliances.
+    - Useful for managers in event planning and adhering to safety compliances by the city. 
     - <img width="1141" height="340" alt="Screenshot 2025-09-22 at 4 17 36 PM" src="https://github.com/user-attachments/assets/af9cf913-1a71-4905-a294-e32c80370b21" />
 
 
       
 4) Ticket Purchases by Customers
    - Shows customers their purchases
-   - Useful for managers to see patterns in buying and sales.
+   - Useful for managers to see patterns in buying and sales. This can help target specific customers who are buying multiple tickets. 
    - <img width="1127" height="382" alt="Screenshot 2025-09-22 at 4 18 52 PM" src="https://github.com/user-attachments/assets/0f6a5d36-56bf-47c4-b1fb-c53e6b994b30" />
 
      
 5) Total revenue by event
    - shows which events generate the most revenue
-   - Useful for managers to evaulate events
+   - Useful for managers to evaulate events via revenue and make changes accordingly to increase revenue. 
    - <img width="1140" height="398" alt="Screenshot 2025-09-22 at 4 19 29 PM" src="https://github.com/user-attachments/assets/3899d3af-3363-4277-b6a2-9e608ce7b29d" />
 
      
 6) Top 5 artists by Revenue
    - Shows which artist are the most profitable
-   - Helps managers decide to book a certain artist or not.
+   - Helps managers decide to book a profitably artists. 
    - <img width="1127" height="366" alt="Screenshot 2025-09-22 at 4 25 22 PM" src="https://github.com/user-attachments/assets/424db35b-da1f-40fd-b774-f4ae64f141aa" />
 
      
