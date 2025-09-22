@@ -97,7 +97,10 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
   10) Top 5 Customers by spending
       - Shows the customers who spend the most
       - Useful for managers to create loyalty progranms or increasing advertising towards those specific people because they are bringing in the most money.
-      - <img width="1138" height="382" alt="PNG image" src="https://github.com/user-attachments/assets/0913ee6f-4e70-476b-b137-ab08b167e8f1" />
+      - <img width="856" height="514" alt="Screenshot 2025-09-22 at 5 19 23 PM" src="https://github.com/user-attachments/assets/6d76775a-7776-4a55-9f88-f39ba7312e8b" />
 
-  
+
+  #Database Information
+  <img width="757" height="265" alt="Screenshot 2025-09-22 at 5 20 34 PM" src="https://github.com/user-attachments/assets/cc20cff0-56d7-4acd-85ca-0790055a78cc" />
+
 
