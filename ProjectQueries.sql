@@ -58,10 +58,13 @@ GROUP BY Venue.VenueName
 ORDER BY AvgTicketPrice DESC;
 
 -- Most Customer spending 
-SELECT Customers.FirstName, Customers.LastName, SUM(Tickets.Quantity * Events.TicketPrice) AS TotalSpent
-FROM Customers
-JOIN Tickets ON Customers.CustomerID = Tickets.CustomerID
-JOIN Events ON Tickets.EventID = Events.EventID
-GROUP BY Customers.CustomerID
-ORDER BY TotalSpent DESC
+SELECT c.FirstName, c.LastName, Spending.TotalSpent
+FROM Customers c
+JOIN (
+    SELECT CustomerID, SUM(Tickets.Quantity * Events.TicketPrice) AS TotalSpent
+    FROM Tickets
+    JOIN Events ON Tickets.EventID = Events.EventID
+    GROUP BY CustomerID
+) AS Spending ON c.CustomerID = Spending.CustomerID
+ORDER BY Spending.TotalSpent DESC
 LIMIT 5;
