@@ -24,7 +24,7 @@ The Venue Management Database is designed to simplify and optimize the day-to-da
 
 # Data Dictionary 
 
-
+![Data Dictionary](Tables (1)-1.png)
 
 
 
